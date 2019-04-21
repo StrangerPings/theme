@@ -1,0 +1,48 @@
+body { 
+    background-color: #19171c;
+    color: #898395 !important;
+}
+
+.th-box, .th-page-header, .margin-right-wrapper, .margin-left-wrapper, .th-box-wrapper {
+    background: #333333 !important;
+}
+
+.t3-footer {
+    background: #313131 !important;
+}
+
+.t3-copyright {
+    background: #333333 !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #898395 !important;
+}
+
+.divider-vertical {
+    border-top: 1px solid #333333 !important;
+}
+
+/* Chat */
+
+.chat-room {
+    background: #19171c !important;
+}
+
+.tw-c-background-alt {
+    background-color: #19171c!important;
+}
+
+.tw-c-text-alt {
+    color: #898395!important;
+}
+
+.tw-border-b {
+    border-bottom: 1px solid #333333!important;
+}
+
+.tw-textarea {
+    background: #19171c !important;
+}
+
+jQuery(document.head).append('<link rel="stylesheet" href="https://raw.githubusercontent.com/StrangerPings/theme/master/dark-theme.css">');
